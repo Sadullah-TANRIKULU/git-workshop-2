@@ -1,3 +1,4 @@
 ok, this is a new file called test.txt. yesterday i'was confused because of file names test and text :)
 today i strive to succeed a clear work.
 it's third time i'm writing in this file, enough!
+last chance ok!
