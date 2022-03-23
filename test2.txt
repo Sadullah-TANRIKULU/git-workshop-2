@@ -1,0 +1,2 @@
+create a new file named test2.txt, add a line in it and store the changes to repo.
+what do you mind for todays' phrases!
